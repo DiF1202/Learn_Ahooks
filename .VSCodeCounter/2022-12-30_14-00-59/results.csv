@@ -1,0 +1,30 @@
+"filename", "language", "TypeScript", "JSON with Comments", "Markdown", "JSON", "Ignore", "CSS", "XML", "TypeScript React", "JavaScript", "comment", "blank", "total"
+"d:\桌面\dumi-template\.fatherrc.ts", "TypeScript", 4, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"d:\桌面\dumi-template\.prettierignore", "Ignore", 0, 0, 0, 0, 7, 0, 0, 0, 0, 0, 1, 8
+"d:\桌面\dumi-template\.prettierrc", "JSON", 0, 0, 0, 11, 0, 0, 0, 0, 0, 0, 1, 12
+"d:\桌面\dumi-template\README.md", "Markdown", 0, 0, 43, 0, 0, 0, 0, 0, 0, 0, 17, 60
+"d:\桌面\dumi-template\README.zh-CN.md", "Markdown", 0, 0, 38, 0, 0, 0, 0, 0, 0, 0, 14, 52
+"d:\桌面\dumi-template\config\config.ts", "TypeScript", 48, 0, 0, 0, 0, 0, 0, 0, 0, 84, 5, 137
+"d:\桌面\dumi-template\config\hooks.ts", "TypeScript", 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 7
+"d:\桌面\dumi-template\docs\guide\index.en-US.md", "Markdown", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 10, 33
+"d:\桌面\dumi-template\docs\guide\index.zh-CN.md", "Markdown", 0, 0, 23, 0, 0, 0, 0, 0, 0, 0, 10, 33
+"d:\桌面\dumi-template\docs\index.en-US.md", "Markdown", 0, 0, 61, 0, 0, 0, 0, 0, 0, 0, 19, 80
+"d:\桌面\dumi-template\docs\index.zh-CN.md", "Markdown", 0, 0, 59, 0, 0, 0, 0, 0, 0, 0, 19, 78
+"d:\桌面\dumi-template\package.json", "JSON", 0, 0, 0, 12, 0, 0, 0, 0, 0, 37, 0, 49
+"d:\桌面\dumi-template\public\logo.svg", "XML", 0, 0, 0, 0, 0, 0, 40, 0, 0, 1, 0, 41
+"d:\桌面\dumi-template\public\simple-logo.svg", "XML", 0, 0, 0, 0, 0, 0, 15, 0, 0, 1, 0, 16
+"d:\桌面\dumi-template\public\style.css", "CSS", 0, 0, 0, 0, 0, 29, 0, 0, 0, 0, 8, 37
+"d:\桌面\dumi-template\public\useExternal\bootstrap-badge.css", "CSS", 0, 0, 0, 0, 0, 51, 0, 0, 0, 0, 8, 59
+"d:\桌面\dumi-template\public\useExternal\test-external-script.js", "JavaScript", 0, 0, 0, 0, 0, 0, 0, 0, 5, 0, 1, 6
+"d:\桌面\dumi-template\src\Foo\index.md", "Markdown", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 6, 19
+"d:\桌面\dumi-template\src\Foo\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 2, 0, 0, 2, 4
+"d:\桌面\dumi-template\src\Foo\index.zh-CN.md", "Markdown", 0, 0, 13, 0, 0, 0, 0, 0, 0, 0, 6, 19
+"d:\桌面\dumi-template\src\hooks\useMount\index.en-US.md", "Markdown", 0, 0, 16, 0, 0, 0, 0, 0, 0, 1, 10, 27
+"d:\桌面\dumi-template\src\hooks\useMount\index.zh-CN.md", "Markdown", 0, 0, 16, 0, 0, 0, 0, 0, 0, 1, 10, 27
+"d:\桌面\dumi-template\src\hooks\useToggle\index.en-US.md", "Markdown", 0, 0, 32, 0, 0, 0, 0, 0, 0, 2, 18, 52
+"d:\桌面\dumi-template\src\hooks\useToggle\index.tsx", "TypeScript React", 0, 0, 0, 0, 0, 0, 0, 21, 0, 9, 9, 39
+"d:\桌面\dumi-template\src\hooks\useToggle\index.zh-CN.md", "Markdown", 0, 0, 32, 0, 0, 0, 0, 0, 0, 2, 18, 52
+"d:\桌面\dumi-template\src\index.ts", "TypeScript", 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 2
+"d:\桌面\dumi-template\tsconfig.json", "JSON with Comments", 0, 19, 0, 0, 0, 0, 0, 0, 0, 10, 1, 30
+"d:\桌面\dumi-template\typings.d.ts", "TypeScript", 2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 3
+"Total", "-", 61, 19, 369, 23, 7, 80, 55, 23, 5, 148, 197, 987

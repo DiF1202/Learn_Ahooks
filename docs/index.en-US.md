@@ -2,12 +2,12 @@
 title: ahooks - React Hooks Library
 hero:
   image: /logo.svg
-  desc: 一套高质量可靠的 React Hooks 库
+  desc: A high-quality & reliable React Hooks library
   actions:
-    - text: 指南
-      link: /zh-CN/guide
-    - text: Hooks 列表
-      link: /zh-CN/hooks
+    - text: Guide
+      link: /guide
+    - text: Hooks List
+      link: /hooks
 footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by [dumi](https://d.umijs.org)
 ---
 
@@ -21,34 +21,36 @@ footer: Open-source MIT Licensed | Copyright © 2019-present<br />Powered by [du
 [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/alibaba/hooks.svg)](http://isitmaintained.com/project/alibaba/hooks 'Average time to resolve an issue')
 ![GitHub](https://img.shields.io/github/license/alibaba/hooks)
 
-## ✨ 特性
+## ✨ Features
 
-- 易学易用
-- 支持 SSR
-- 对输入输出函数做了特殊处理，避免闭包问题
-- 包含大量提炼自业务的高级 Hooks
-- 包含丰富的基础 Hooks
-- 使用 TypeScript 构建，提供完整的类型定义文件
+- Easy to learn and use
+- Supports SSR
+- Special treatment for functions, avoid closure problems
+- Contains a large number of advanced Hooks that are refined from business scenarios
+- Contains a comprehensive collection of basic Hooks
+- Written in TypeScript with predictable static types
 
-## 📦 安装
+## 📦 Install
 
 ```bash
 $ npm install --save ahooks
 # or
 $ yarn add ahooks
+# or
+$ pnpm add ahooks
 ```
 
-## 🔨 使用
+## 🔨 Usage
 
 ```ts
 import { useRequest } from 'ahooks';
 ```
 
-## 💻 在线体验
+## 💻 Online Demo
 
 [![Edit demo for ahooks](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/demo-for-ahooks-forked-fg79k?file=/src/App.js)
 
-## 🤝 参与共建
+## 🤝 Contributing
 
 ```bash
 $ git clone git@github.com:alibaba/hooks.git
@@ -57,17 +59,17 @@ $ pnpm run init
 $ pnpm start
 ```
 
-打开浏览器访问 http://127.0.0.1:8000
+Open your browser and visit http://127.0.0.1:8000
 
-我们欢迎所有人参与共建，请参考[CONTRIBUTING.MD](https://github.com/alibaba/hooks/blob/master/CONTRIBUTING.zh-CN.MD)
+We welcome all contributions, please read our [CONTRIBUTING.MD](https://github.com/alibaba/hooks/blob/master/CONTRIBUTING.MD) first, let's build a better hooks library together.
 
-感谢所有贡献者：
+Thanks to all the contributors:
 
 <a href="https://github.com/alibaba/hooks/graphs/contributors">
   <img src="https://opencollective.com/ahooks/contributors.svg?width=960&button=false" alt="contributors" />
 </a>
 
-## 👥 交流讨论
+## 👥 Discuss
 
 <img src="https://user-images.githubusercontent.com/60802048/201606568-9ce53e3f-2e1c-4dc3-869f-fb3cf6196904.JPG" width="200" style='display:inline'/><img src="https://user-images.githubusercontent.com/60802048/201606896-31abd486-cc3e-4cc4-beea-1b244a4c5595.JPG" width="200" style='display:inline'/><img src="https://user-images.githubusercontent.com/60802048/201606953-c33f3f52-eb91-42bc-8da7-1e941e823144.JPG" width="200" style='display:inline'/>
 

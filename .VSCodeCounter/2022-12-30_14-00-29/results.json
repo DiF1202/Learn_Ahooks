@@ -1,0 +1,170 @@
+{
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/typings.d.ts": {
+    "language": "TypeScript",
+    "code": 2,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/README.zh-CN.md": {
+    "language": "Markdown",
+    "code": 38,
+    "comment": 0,
+    "blank": 14
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/tsconfig.json": {
+    "language": "JSON with Comments",
+    "code": 19,
+    "comment": 10,
+    "blank": 1
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/README.md": {
+    "language": "Markdown",
+    "code": 43,
+    "comment": 0,
+    "blank": 17
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/index.ts": {
+    "language": "TypeScript",
+    "code": 1,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/package.json": {
+    "language": "JSON",
+    "code": 12,
+    "comment": 37,
+    "blank": 0
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/Foo/index.zh-CN.md": {
+    "language": "Markdown",
+    "code": 13,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/Foo/index.tsx": {
+    "language": "TypeScript React",
+    "code": 2,
+    "comment": 0,
+    "blank": 2
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/Foo/index.md": {
+    "language": "Markdown",
+    "code": 13,
+    "comment": 0,
+    "blank": 6
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/public/logo.svg": {
+    "language": "XML",
+    "code": 40,
+    "comment": 1,
+    "blank": 0
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/public/simple-logo.svg": {
+    "language": "XML",
+    "code": 15,
+    "comment": 1,
+    "blank": 0
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/docs/index.zh-CN.md": {
+    "language": "Markdown",
+    "code": 59,
+    "comment": 0,
+    "blank": 19
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/public/useExternal/test-external-script.js": {
+    "language": "JavaScript",
+    "code": 5,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/docs/index.en-US.md": {
+    "language": "Markdown",
+    "code": 61,
+    "comment": 0,
+    "blank": 19
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/public/useExternal/bootstrap-badge.css": {
+    "language": "CSS",
+    "code": 51,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/hooks/useMount/index.en-US.md": {
+    "language": "Markdown",
+    "code": 16,
+    "comment": 1,
+    "blank": 10
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/hooks/useToggle/index.tsx": {
+    "language": "TypeScript React",
+    "code": 21,
+    "comment": 9,
+    "blank": 9
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/docs/guide/index.en-US.md": {
+    "language": "Markdown",
+    "code": 23,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/hooks/useMount/index.zh-CN.md": {
+    "language": "Markdown",
+    "code": 16,
+    "comment": 1,
+    "blank": 10
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/hooks/useToggle/index.en-US.md": {
+    "language": "Markdown",
+    "code": 32,
+    "comment": 2,
+    "blank": 18
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/public/style.css": {
+    "language": "CSS",
+    "code": 29,
+    "comment": 0,
+    "blank": 8
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/src/hooks/useToggle/index.zh-CN.md": {
+    "language": "Markdown",
+    "code": 32,
+    "comment": 2,
+    "blank": 18
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/docs/guide/index.zh-CN.md": {
+    "language": "Markdown",
+    "code": 23,
+    "comment": 0,
+    "blank": 10
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/.prettierrc": {
+    "language": "JSON",
+    "code": 11,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/.prettierignore": {
+    "language": "Ignore",
+    "code": 7,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/.fatherrc.ts": {
+    "language": "TypeScript",
+    "code": 4,
+    "comment": 0,
+    "blank": 1
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/config/config.ts": {
+    "language": "TypeScript",
+    "code": 48,
+    "comment": 84,
+    "blank": 5
+  },
+  "file:///d%3A/%E6%A1%8C%E9%9D%A2/dumi-template/config/hooks.ts": {
+    "language": "TypeScript",
+    "code": 6,
+    "comment": 0,
+    "blank": 1
+  }
+}
